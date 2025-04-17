@@ -2820,13 +2820,12 @@ body {
 
 .container {
   position: relative;
+  width: 100%;
+  margin: auto;
+  background-color: #eda250;
 }
 html {
   transform: scale(1.5);
   -webkit-transform: scale(1.5);
   -ms-transform: scale(1.5);
-}
-
-body {
-  background-color: #eda250;
 }
