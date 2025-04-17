@@ -533,3 +533,17 @@ div._idGenObjectStyle-Disabled {
   background-color: transparent;
   border-width: 0px;
 }
+
+.container {
+  position: relative;
+}
+
+html {
+  transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  -ms-transform: scale(1.5);
+}
+
+body {
+  background-color: #eda250;
+}
