@@ -140,7 +140,6 @@
     <item id="Aller-Bold.ttf" href="resources/fonts/Aller-Bold.ttf" media-type="font/ttf"/>
     <item id="Aller-Regular.ttf" href="resources/fonts/Aller-Regular.ttf" media-type="font/ttf"/>
     <item id="ChineseRocksRg-Regular.otf" href="resources/fonts/ChineseRocksRg-Regular.otf" media-type="font/otf"/>
-    <item id="ChineseRocksRg-Regular.woff" href="resources/fonts/ChineseRocksRg-Regular.woff" media-type="font/woff"/>
     <item id="LaskiSlab-Bold.otf" href="resources/fonts/LaskiSlab-Bold.otf" media-type="font/otf"/>
     <item id="LaskiSlab-Book.otf" href="resources/fonts/LaskiSlab-Book.otf" media-type="font/otf"/>
     <item id="LaskiSlab-Regular.otf" href="resources/fonts/LaskiSlab-Regular.otf" media-type="font/otf"/>
