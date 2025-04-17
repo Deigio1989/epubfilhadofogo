@@ -80,12 +80,13 @@ div.Quadro-de-texto-b-sico {
   border-style: solid;
 }
 p.ParaOverride-1 {
+  font-family: "Chinese Rocks Rg";
   line-height: 1;
   white-space: nowrap;
 }
 span.CharOverride-1 {
   color: #fbee66;
-  font-family: "Chinese Rocks Rg", sans-serif;
+  font-family: "Chinese Rocks Rg", sans-serif !important;
   font-size: 74.6px;
   font-style: normal;
   font-weight: normal;
@@ -545,4 +546,7 @@ html {
   transform: scale(1.5);
   -webkit-transform: scale(1.5);
   -ms-transform: scale(1.5);
+}
+
+.Titulo_obra {
 }
