@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="bookid" xml:lang="pt-BR" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta name="generator" content="Adobe InDesign 20.2"/>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <dc:title>MIOLO_Filha do fogo</dc:title>
+    <dc:date>2025-04-14T17:25:23Z</dc:date>
+    <dc:language>pt-BR</dc:language>
+    <meta property="dcterms:modified">2025-04-14T17:25:23Z</meta>
+    <dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="index" href="index.html" media-type="text/html" properties="scripted"/>
+
+
+<item id="cover-1" href="/content/cover-1.html" media-type="text/html"/>
+<item id="cover-2" href="/content/cover-2.html" media-type="text/html"/>
+<item id="publication" href="/content/publication.html" media-type="text/html"/>
+<item id="publication-1" href="/content/publication-1.html" media-type="text/html"/>
+<item id="publication-2" href="/content/publication-2.html" media-type="text/html"/>
+<item id="publication-3" href="/content/publication-3.html" media-type="text/html"/>
+<item id="publication-4" href="/content/publication-4.html" media-type="text/html"/>
+<item id="publication-5" href="/content/publication-5.html" media-type="text/html"/>
+<item id="publication-6" href="/content/publication-6.html" media-type="text/html"/>
+<item id="publication-7" href="/content/publication-7.html" media-type="text/html"/>
+<item id="publication-8" href="/content/publication-8.html" media-type="text/html"/>
+<item id="publication-9" href="/content/publication-9.html" media-type="text/html"/>
+<item id="publication-10" href="/content/publication-10.html" media-type="text/html"/>
+<item id="publication-11" href="/content/publication-11.html" media-type="text/html"/>
+<item id="publication-12" href="/content/publication-12.html" media-type="text/html"/>
+<item id="publication-13" href="/content/publication-13.html" media-type="text/html"/>
+<item id="publication-14" href="/content/publication-14.html" media-type="text/html"/>
+<item id="publication-15" href="/content/publication-15.html" media-type="text/html"/>
+<item id="publication-16" href="/content/publication-16.html" media-type="text/html"/>
+<item id="publication-17" href="/content/publication-17.html" media-type="text/html"/>
+<item id="publication-18" href="/content/publication-18.html" media-type="text/html"/>
+<item id="publication-19" href="/content/publication-19.html" media-type="text/html"/>
+<item id="publication-20" href="/content/publication-20.html" media-type="text/html"/>
+<item id="publication-21" href="/content/publication-21.html" media-type="text/html"/>
+<item id="publication-22" href="/content/publication-22.html" media-type="text/html"/>
+<item id="publication-23" href="/content/publication-23.html" media-type="text/html"/>
+<item id="publication-24" href="/content/publication-24.html" media-type="text/html"/>
+<item id="publication-25" href="/content/publication-25.html" media-type="text/html"/>
+<item id="publication-26" href="/content/publication-26.html" media-type="text/html"/>
+<item id="publication-27" href="/content/publication-27.html" media-type="text/html"/>
+<item id="publication-28" href="/content/publication-28.html" media-type="text/html"/>
+<item id="publication-29" href="/content/publication-29.html" media-type="text/html"/>
+<item id="publication-30" href="/content/publication-30.html" media-type="text/html"/>
+<item id="publication-31" href="/content/publication-31.html" media-type="text/html"/>
+<item id="publication-32" href="/content/publication-32.html" media-type="text/html"/>
+<item id="publication-33" href="/content/publication-33.html" media-type="text/html"/>
+<item id="publication-34" href="/content/publication-34.html" media-type="text/html"/>
+<item id="publication-35" href="/content/publication-35.html" media-type="text/html"/>
+<item id="publication-36" href="/content/publication-36.html" media-type="text/html"/>
+<item id="publication-37" href="/content/publication-37.html" media-type="text/html"/>
+<item id="publication-38" href="/content/publication-38.html" media-type="text/html"/>
+<item id="publication-39" href="/content/publication-39.html" media-type="text/html"/>
+<item id="publication-40" href="/content/publication-40.html" media-type="text/html"/>
+<item id="publication-41" href="/content/publication-41.html" media-type="text/html"/>
+<item id="publication-42" href="/content/publication-42.html" media-type="text/html"/>
+<item id="publication-43" href="/content/publication-43.html" media-type="text/html"/>
+<item id="publication-44" href="/content/publication-44.html" media-type="text/html"/>
+<item id="publication-45" href="/content/publication-45.html" media-type="text/html"/>
+<item id="publication-46" href="/content/publication-46.html" media-type="text/html"/>
+<item id="publication-47" href="/content/publication-47.html" media-type="text/html"/>
+<item id="publication-48" href="/content/publication-48.html" media-type="text/html"/>
+<item id="publication-49" href="/content/publication-49.html" media-type="text/html"/>
+<item id="publication-50" href="/content/publication-50.html" media-type="text/html"/>
+<item id="publication-51" href="/content/publication-51.html" media-type="text/html"/>
+<item id="publication-52" href="/content/publication-52.html" media-type="text/html"/>
+<item id="publication-53" href="/content/publication-53.html" media-type="text/html"/>
+<item id="publication-54" href="/content/publication-54.html" media-type="text/html"/>
+<item id="publication-55" href="/content/publication-55.html" media-type="text/html"/>
+<item id="publication-56" href="/content/publication-56.html" media-type="text/html"/>
+<item id="publication-57" href="/content/publication-57.html" media-type="text/html"/>
+<item id="publication-58" href="/content/publication-58.html" media-type="text/html"/>
+<item id="publication-59" href="/content/publication-59.html" media-type="text/html"/>
+<item id="publication-60" href="/content/publication-60.html" media-type="text/html"/>
+<item id="publication-61" href="/content/publication-61.html" media-type="text/html"/>
+<item id="publication-62" href="/content/publication-62.html" media-type="text/html"/>
+<item id="publication-63" href="/content/publication-63.html" media-type="text/html"/>
+<item id="publication-64" href="/content/publication-64.html" media-type="text/html"/>
+<item id="publication-65" href="/content/publication-65.html" media-type="text/html"/>
+<item id="publication-66" href="/content/publication-66.html" media-type="text/html"/>
+<item id="publication-67" href="/content/publication-67.html" media-type="text/html"/>
+<item id="publication-68" href="/content/publication-68.html" media-type="text/html"/>
+<item id="publication-69" href="/content/publication-69.html" media-type="text/html"/>
+<item id="publication-70" href="/content/publication-70.html" media-type="text/html"/>
+<item id="publication-71" href="/content/publication-71.html" media-type="text/html"/>
+<item id="publication-72" href="/content/publication-72.html" media-type="text/html"/>
+<item id="publication-73" href="/content/publication-73.html" media-type="text/html"/>
+<item id="publication-74" href="/content/publication-74.html" media-type="text/html"/>
+<item id="publication-75" href="/content/publication-75.html" media-type="text/html"/>
+<item id="publication-76" href="/content/publication-76.html" media-type="text/html"/>
+<item id="publication-77" href="/content/publication-77.html" media-type="text/html"/>
+<item id="publication-78" href="/content/publication-78.html" media-type="text/html"/>
+<item id="publication-79" href="/content/publication-79.html" media-type="text/html"/>
+<item id="publication-80" href="/content/publication-80.html" media-type="text/html"/>
+<item id="publication-81" href="/content/publication-81.html" media-type="text/html"/>
+<item id="publication-82" href="/content/publication-82.html" media-type="text/html"/>
+<item id="publication-83" href="/content/publication-83.html" media-type="text/html"/>
+<item id="publication-84" href="/content/publication-84.html" media-type="text/html"/>
+<item id="publication-85" href="/content/publication-85.html" media-type="text/html"/>
+<item id="publication-86" href="/content/publication-86.html" media-type="text/html"/>
+<item id="publication-87" href="/content/publication-87.html" media-type="text/html"/>
+<item id="publication-88" href="/content/publication-88.html" media-type="text/html"/>
+<item id="publication-89" href="/content/publication-89.html" media-type="text/html"/>
+<item id="publication-90" href="/content/publication-90.html" media-type="text/html"/>
+<item id="publication-91" href="/content/publication-91.html" media-type="text/html"/>
+<item id="publication-92" href="/content/publication-92.html" media-type="text/html"/>
+<item id="publication-93" href="/content/publication-93.html" media-type="text/html"/>
+<item id="publication-94" href="/content/publication-94.html" media-type="text/html"/>
+<item id="publication-95" href="/content/publication-95.html" media-type="text/html"/>
+<item id="publication-96" href="/content/publication-96.html" media-type="text/html"/>
+<item id="publication-97" href="/content/publication-97.html" media-type="text/html"/>
+<item id="publication-98" href="/content/publication-98.html" media-type="text/html"/>
+<item id="publication-99" href="/content/publication-99.html" media-type="text/html"/>
+<item id="publication-100" href="/content/publication-100.html" media-type="text/html"/>
+<item id="publication-101" href="/content/publication-101.html" media-type="text/html"/>
+<item id="publication-102" href="/content/publication-102.html" media-type="text/html"/>
+<item id="publication-103" href="/content/publication-103.html" media-type="text/html"/>
+<item id="publication-104" href="/content/publication-104.html" media-type="text/html"/>
+<item id="publication-105" href="/content/publication-105.html" media-type="text/html"/>
+<item id="publication-106" href="/content/publication-106.html" media-type="text/html"/>
+<item id="publication-107" href="/content/publication-107.html" media-type="text/html"/>
+<item id="publication-108" href="/content/publication-108.html" media-type="text/html"/>
+<item id="publication-109" href="/content/publication-109.html" media-type="text/html"/>
+<item id="publication-110" href="/content/publication-110.html" media-type="text/html"/>
+<item id="publication-111" href="/content/publication-111.html" media-type="text/html"/>
+
+
+<!-- Styles -->
+    <item id="maincss" href="resources/styles/main.css" media-type="text/css"/>
+    <item id="style" href="resources/styles/style.css" media-type="text/css"/>
+    <item id="idGeneratedStyles.css" href="resources/styles/idGeneratedStyles.css" media-type="text/css"/>
+    <item id="coverStyles.css" href="resources/styles/coverStyles.css" media-type="text/css"/>
+
+<!-- Fonts -->
+    <item id="Aller-Bold.ttf" href="resources/font/Aller-Bold.ttf" media-type="font/ttf"/>
+    <item id="Aller-Regular.ttf" href="resources/font/Aller-Regular.ttf" media-type="font/ttf"/>
+    <item id="ChineseRocksRg-Regular.otf" href="resources/font/ChineseRocksRg-Regular.otf" media-type="font/otf"/>
+    <item id="LaskiSlab-Bold.otf" href="resources/font/LaskiSlab-Bold.otf" media-type="font/otf"/>
+    <item id="LaskiSlab-Book.otf" href="resources/font/LaskiSlab-Book.otf" media-type="font/otf"/>
+    <item id="LaskiSlab-Regular.otf" href="resources/font/LaskiSlab-Regular.otf" media-type="font/otf"/>
+    <item id="LaskiSlab-RegularItalic.otf" href="resources/font/LaskiSlab-RegularItalic.otf" media-type="font/otf"/>
+    <item id="LaskiSlab-SemiBoldItalic.otf" href="resources/font/LaskiSlab-SemiBoldItalic.otf" media-type="font/otf"/>
+    <item id="Router-Medium.otf" href="resources/font/Router-Medium.otf" media-type="font/otf"/>
+    <item id="MinionPro-Regular.otf" href="resources/font/MinionPro-Regular.otf" media-type="font/otf"/>
+
+
+	<!-- Scripts -->
+    <item id="script1" href="resources/scripts/main.js" media-type="application/javascript"/>
+    <item id="script2" href="resources/scripts/jquery.js" media-type="application/javascript"/>
+    <item id="script3" href="resources/scripts/turn.js" media-type="application/javascript"/>
+    <item id="script5" href="resources/scripts/zoom.min.js" media-type="application/javascript"/>
+
+
+<!-- Book Images -->
+		<item id="cover" href="./cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="arte_final_capa.jpg" href="resources/images/arte_final_capa.jpg" media-type="image/jpeg"/>
+    <item id="arte_final_capa1.jpg" href="resources/images/arte_final_capa1.jpg" media-type="image/jpeg"/>
+    <item id="machado_cor.png" href="resources/images/machado_cor.png" media-type="image/png"/>
+    <item id="x1.png" href="resources/images/img1.png" media-type="image/png"/>
+    <item id="x2.png" href="resources/images/img2.png" media-type="image/png"/>
+    <item id="x3.png" href="resources/images/img3.png" media-type="image/png"/>
+    <item id="x4.png" href="resources/images/img4.png" media-type="image/png"/>
+    <item id="afagos_mae_e_filha.jpg" href="resources/images/afagos_mae_e_filha.jpg" media-type="image/jpeg"/>
+    <item id="afagos_mae_e_filha1.jpg" href="resources/images/afagos_mae_e_filha1.jpg" media-type="image/jpeg"/>
+    <item id="balanco.jpg" href="resources/images/balanco.jpg" media-type="image/jpeg"/>
+    <item id="balanco1.jpg" href="resources/images/balanco1.jpg" media-type="image/jpeg"/>
+    <item id="bike.jpg" href="resources/images/bike.jpg" media-type="image/jpeg"/>
+    <item id="cabaca.jpg" href="resources/images/cabaca.jpg" media-type="image/jpeg"/>
+    <item id="cabaca_oferenda.jpg" href="resources/images/cabaca_oferenda.jpg" media-type="image/jpeg"/>
+    <item id="calcinha.jpg" href="resources/images/calcinha.jpg" media-type="image/jpeg"/>
+    <item id="chuva.jpg" href="resources/images/chuva.jpg" media-type="image/jpeg"/>
+    <item id="cumbuca.png" href="resources/images/cumbuca.png" media-type="image/png"/>
+    <item id="dread.jpg" href="resources/images/dread.jpg" media-type="image/jpeg"/>
+    <item id="creditos.jpg" href="resources/images/creditos.jpg" media-type="image/jpeg"/>
+    <item id="estrelas.jpg" href="resources/images/estrelas.jpg" media-type="image/jpeg"/>
+    <item id="estrelas1.jpg" href="resources/images/estrelas1.jpg" media-type="image/jpeg"/>
+    <item id="forno_a_lenha.jpg" href="resources/images/forno_a_lenha.jpg" media-type="image/jpeg"/>
+    <item id="forno_a_lenha1.jpg" href="resources/images/forno_a_lenha1.jpg" media-type="image/jpeg"/>
+    <item id="incenso.jpg" href="resources/images/incenso.jpg" media-type="image/jpeg"/>
+    <item id="incenso1.jpg" href="resources/images/incenso1.jpg" media-type="image/jpeg"/>
+    <item id="livros.jpg" href="resources/images/livros.jpg" media-type="image/jpeg"/>
+    <item id="machado.jpg" href="resources/images/machado.jpg" media-type="image/jpeg"/>
+    <item id="patacoto.jpg" href="resources/images/patacoto.jpg" media-type="image/jpeg"/>
+    <item id="reticula_capa_interna.png" href="resources/images/reticula_capa_interna.png" media-type="image/png"/>
+    <item id="reticula_capa_interna1.png" href="resources/images/reticula_capa_interna1.png" media-type="image/png"/>
+  </manifest>
+
+
+  <spine toc="ncx">
+  <itemref idref="cover" linear="no"/>
+  <itemref idref="cover-1"/>
+  <itemref idref="publication"/>
+  <itemref idref="publication-1"/>
+  <itemref idref="publication-2"/>
+  <itemref idref="publication-3"/>
+  <itemref idref="publication-4"/>
+  <itemref idref="publication-5"/>
+  <itemref idref="publication-6"/>
+  <itemref idref="publication-7"/>
+  <itemref idref="publication-8"/>
+  <itemref idref="publication-9"/>
+  <itemref idref="publication-10"/>
+  <itemref idref="publication-11"/>
+  <itemref idref="publication-12"/>
+  <itemref idref="publication-13"/>
+  <itemref idref="publication-14"/>
+  <itemref idref="publication-15"/>
+  <itemref idref="publication-16"/>
+  <itemref idref="publication-17"/>
+  <itemref idref="publication-18"/>
+  <itemref idref="publication-19"/>
+  <itemref idref="publication-20"/>
+  <itemref idref="publication-21"/>
+  <itemref idref="publication-22"/>
+  <itemref idref="publication-23"/>
+  <itemref idref="publication-24"/>
+  <itemref idref="publication-25"/>
+  <itemref idref="publication-26"/>
+  <itemref idref="publication-27"/>
+  <itemref idref="publication-28"/>
+  <itemref idref="publication-29"/>
+  <itemref idref="publication-30"/>
+  <itemref idref="publication-31"/>
+  <itemref idref="publication-32"/>
+  <itemref idref="publication-33"/>
+  <itemref idref="publication-34"/>
+  <itemref idref="publication-35"/>
+  <itemref idref="publication-36"/>
+  <itemref idref="publication-37"/>
+  <itemref idref="publication-38"/>
+  <itemref idref="publication-39"/>
+  <itemref idref="publication-40"/>
+  <itemref idref="publication-41"/>
+  <itemref idref="publication-42"/>
+  <itemref idref="publication-43"/>
+  <itemref idref="publication-44"/>
+  <itemref idref="publication-45"/>
+  <itemref idref="publication-46"/>
+  <itemref idref="publication-47"/>
+  <itemref idref="publication-48"/>
+  <itemref idref="publication-49"/>
+  <itemref idref="publication-50"/>
+  <itemref idref="publication-51"/>
+  <itemref idref="publication-52"/>
+  <itemref idref="publication-53"/>
+  <itemref idref="publication-54"/>
+  <itemref idref="publication-55"/>
+  <itemref idref="publication-56"/>
+  <itemref idref="publication-57"/>
+  <itemref idref="publication-58"/>
+  <itemref idref="publication-59"/>
+  <itemref idref="publication-60"/>
+  <itemref idref="publication-61"/>
+  <itemref idref="publication-62"/>
+  <itemref idref="publication-63"/>
+  <itemref idref="publication-64"/>
+  <itemref idref="publication-65"/>
+  <itemref idref="publication-66"/>
+  <itemref idref="publication-67"/>
+  <itemref idref="publication-68"/>
+  <itemref idref="publication-69"/>
+  <itemref idref="publication-70"/>
+  <itemref idref="publication-71"/>
+  <itemref idref="publication-72"/>
+  <itemref idref="publication-73"/>
+  <itemref idref="publication-74"/>
+  <itemref idref="publication-75"/>
+  <itemref idref="publication-76"/>
+  <itemref idref="publication-77"/>
+  <itemref idref="publication-78"/>
+  <itemref idref="publication-79"/>
+  <itemref idref="publication-80"/>
+  <itemref idref="publication-81"/>
+  <itemref idref="publication-82"/>
+  <itemref idref="publication-83"/>
+  <itemref idref="publication-84"/>
+  <itemref idref="publication-85"/>
+  <itemref idref="publication-86"/>
+  <itemref idref="publication-87"/>
+  <itemref idref="publication-88"/>
+  <itemref idref="publication-89"/>
+  <itemref idref="publication-90"/>
+  <itemref idref="publication-91"/>
+  <itemref idref="publication-92"/>
+  <itemref idref="publication-93"/>
+  <itemref idref="publication-94"/>
+  <itemref idref="publication-95"/>
+  <itemref idref="publication-96"/>
+  <itemref idref="publication-97"/>
+  <itemref idref="publication-98"/>
+  <itemref idref="publication-99"/>
+  <itemref idref="publication-100"/>
+  <itemref idref="publication-101"/>
+  <itemref idref="publication-102"/>
+  <itemref idref="publication-103"/>
+  <itemref idref="publication-104"/>
+  <itemref idref="publication-105"/>
+  <itemref idref="publication-106"/>
+  <itemref idref="publication-107"/>
+  <itemref idref="publication-108"/>
+  <itemref idref="publication-109"/>
+  <itemref idref="publication-110"/>
+  <itemref idref="publication-111"/>
+  <itemref idref="cover-2"/>
+</spine>
+  <guide>
+   <reference type="cover" title="Capa" href="index.html#cover"/>
+	<reference type="text" title="Início" href="/index.html"/>
+    <reference type="toc" title="Table of Contents" href="content/content.html#page7"/>
+  </guide>
+</package>
