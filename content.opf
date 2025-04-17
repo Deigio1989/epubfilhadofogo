@@ -137,17 +137,17 @@
     <item id="coverStyles.css" href="resources/styles/coverStyles.css" media-type="text/css"/>
 
 <!-- Fonts -->
-    <item id="Aller-Bold.ttf" href="resources/font/Aller-Bold.ttf" media-type="font/ttf"/>
-    <item id="Aller-Regular.ttf" href="resources/font/Aller-Regular.ttf" media-type="font/ttf"/>
-    <item id="ChineseRocksRg-Regular.otf" href="resources/font/ChineseRocksRg-Regular.otf" media-type="font/otf"/>
-    <item id="ChineseRocksRg-Regular.woff" href="resources/font/ChineseRocksRg-Regular.woff" media-type="font/woff"/>
-    <item id="LaskiSlab-Bold.otf" href="resources/font/LaskiSlab-Bold.otf" media-type="font/otf"/>
-    <item id="LaskiSlab-Book.otf" href="resources/font/LaskiSlab-Book.otf" media-type="font/otf"/>
-    <item id="LaskiSlab-Regular.otf" href="resources/font/LaskiSlab-Regular.otf" media-type="font/otf"/>
-    <item id="LaskiSlab-RegularItalic.otf" href="resources/font/LaskiSlab-RegularItalic.otf" media-type="font/otf"/>
-    <item id="LaskiSlab-SemiBoldItalic.otf" href="resources/font/LaskiSlab-SemiBoldItalic.otf" media-type="font/otf"/>
-    <item id="Router-Medium.otf" href="resources/font/Router-Medium.otf" media-type="font/otf"/>
-    <item id="MinionPro-Regular.otf" href="resources/font/MinionPro-Regular.otf" media-type="font/otf"/>
+    <item id="Aller-Bold.ttf" href="resources/fonts/Aller-Bold.ttf" media-type="font/ttf"/>
+    <item id="Aller-Regular.ttf" href="resources/fonts/Aller-Regular.ttf" media-type="font/ttf"/>
+    <item id="ChineseRocksRg-Regular.otf" href="resources/fonts/ChineseRocksRg-Regular.otf" media-type="font/otf"/>
+    <item id="ChineseRocksRg-Regular.woff" href="resources/fonts/ChineseRocksRg-Regular.woff" media-type="font/woff"/>
+    <item id="LaskiSlab-Bold.otf" href="resources/fonts/LaskiSlab-Bold.otf" media-type="font/otf"/>
+    <item id="LaskiSlab-Book.otf" href="resources/fonts/LaskiSlab-Book.otf" media-type="font/otf"/>
+    <item id="LaskiSlab-Regular.otf" href="resources/fonts/LaskiSlab-Regular.otf" media-type="font/otf"/>
+    <item id="LaskiSlab-RegularItalic.otf" href="resources/fonts/LaskiSlab-RegularItalic.otf" media-type="font/otf"/>
+    <item id="LaskiSlab-SemiBoldItalic.otf" href="resources/fonts/LaskiSlab-SemiBoldItalic.otf" media-type="font/otf"/>
+    <item id="Router-Medium.otf" href="resources/fonts/Router-Medium.otf" media-type="font/otf"/>
+    <item id="MinionPro-Regular.otf" href="resources/fonts/MinionPro-Regular.otf" media-type="font/otf"/>
 
 
 	<!-- Scripts -->
