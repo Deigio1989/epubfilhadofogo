@@ -539,16 +539,15 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #eda250;
-  height: 80vh;
-  width: 80vw;
+  height: 100vh;
+  width: 100vw;
 }
 .container {
   position: relative;
-  width: 100%;
+  left: -5vw;
+  height: 581px;
   margin: auto;
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
 }
@@ -557,5 +556,4 @@ html {
   transform: scale(1.5);
   -webkit-transform: scale(1.5);
   -ms-transform: scale(1.5);
-  background-color: #eda250;
 }
