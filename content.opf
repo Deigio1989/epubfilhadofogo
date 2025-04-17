@@ -140,6 +140,7 @@
     <item id="Aller-Bold.ttf" href="resources/font/Aller-Bold.ttf" media-type="font/ttf"/>
     <item id="Aller-Regular.ttf" href="resources/font/Aller-Regular.ttf" media-type="font/ttf"/>
     <item id="ChineseRocksRg-Regular.otf" href="resources/font/ChineseRocksRg-Regular.otf" media-type="font/otf"/>
+    <item id="ChineseRocksRg-Regular.woff" href="resources/font/ChineseRocksRg-Regular.woff" media-type="font/woff"/>
     <item id="LaskiSlab-Bold.otf" href="resources/font/LaskiSlab-Bold.otf" media-type="font/otf"/>
     <item id="LaskiSlab-Book.otf" href="resources/font/LaskiSlab-Book.otf" media-type="font/otf"/>
     <item id="LaskiSlab-Regular.otf" href="resources/font/LaskiSlab-Regular.otf" media-type="font/otf"/>
@@ -309,7 +310,7 @@
   <itemref idref="cover-2"/>
 </spine>
   <guide>
-   <reference type="cover" title="Capa" href="index.html#cover"/>
+  <reference type="cover" title="Capa" href="index.html#cover"/>
 	<reference type="text" title="Início" href="/index.html"/>
     <reference type="toc" title="Table of Contents" href="content/content.html#page7"/>
   </guide>

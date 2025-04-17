@@ -2,7 +2,7 @@
   font-family: "Chinese Rocks Rg";
   font-style: normal;
   font-weight: normal;
-  src: url(".../fonts/ChineseRocksRg-Regular.otf");
+  src: url("../fonts/ChineseRocksRg-Regular.otf");
 }
 @font-face {
   font-family: "Laski Slab Bold";
@@ -38,7 +38,7 @@
   font-family: "Minion Pro";
   font-style: normal;
   font-weight: normal;
-  src: url("../fonts/font/MinionPro-Regular.otf");
+  src: url("../fonts/MinionPro-Regular.otf");
 }
 @font-face {
   font-family: "Router Light";
@@ -80,6 +80,7 @@ div.Quadro-de-texto-b-sico {
   border-style: solid;
 }
 p.ParaOverride-1 {
+  font-family: "Chinese Rocks Rg";
   line-height: 1;
   white-space: nowrap;
 }
@@ -532,4 +533,29 @@ img._idGenObjectAttribute-2 {
 div._idGenObjectStyle-Disabled {
   background-color: transparent;
   border-width: 0px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #eda250;
+  height: 80vh;
+  width: 80vw;
+}
+.container {
+  position: relative;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+html {
+  transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  -ms-transform: scale(1.5);
+  background-color: #eda250;
 }
