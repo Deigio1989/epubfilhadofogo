@@ -2813,9 +2813,11 @@ div._idGenObjectStyle-Disabled {
 }
 body {
   display: flex;
-  justify-content: center; /* Alinha horizontalmente */
-  align-items: center; /* Alinha verticalmente */
-  margin: 0; /* Remove qualquer margem padrão */
+  justify-content: center;
+  align-items: center;
+  background-color: #eda250;
+  height: 100vh;
+  width: 100vw;
 }
 
 .container {

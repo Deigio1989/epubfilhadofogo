@@ -86,7 +86,7 @@ p.ParaOverride-1 {
 }
 span.CharOverride-1 {
   color: #fbee66;
-  font-family: "Chinese Rocks Rg", sans-serif !important;
+  font-family: "Chinese Rocks Rg", sans-serif;
   font-size: 74.6px;
   font-style: normal;
   font-weight: normal;
@@ -535,18 +535,27 @@ div._idGenObjectStyle-Disabled {
   border-width: 0px;
 }
 
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #eda250;
+  height: 80vh;
+  width: 80vw;
+}
 .container {
   position: relative;
   width: 100%;
   margin: auto;
-  background-color: #eda250;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
 
 html {
   transform: scale(1.5);
   -webkit-transform: scale(1.5);
   -ms-transform: scale(1.5);
-}
-
-.Titulo_obra {
+  background-color: #eda250;
 }
